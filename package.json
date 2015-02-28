@@ -1,0 +1,14 @@
+{
+  "name": "backend_app",
+  "version": "0.0.0",
+  "description": "",
+  "author": "clngn",
+  "license": "MIT",
+  "devDependencies": {
+    "coffee-script": "*",
+    "gulp": "*",
+    "gulp-plumber": "*",
+    "gulp-rsync": "*",
+    "gulp-watch": "*"
+  }
+}
